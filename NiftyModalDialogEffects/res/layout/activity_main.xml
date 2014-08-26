@@ -16,7 +16,7 @@
         android:textColor="#FFFFFF"
         android:padding="30dp"
         android:gravity="center"
-        android:text="Nifty Modal Dialog Effects" />
+        android:text="Nifty   Modal Dialog Effects" />
 
     <ScrollView
         android:layout_width="match_parent"
